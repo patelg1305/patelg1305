@@ -10,8 +10,21 @@
 <h2>👨‍💻 Cybersecurity key Projects:</h2>
 
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Oracle VMWare Virtual Home lab</b>
+  - Goal : To further Experience with Virtual Machines and experiment with ethical hacking
+  - Consist of Windows 2016 server running Active Directory ,DHCP, and DNS with Windows 10 Pro acting as a workstation
+  -  Installed KALI Linux module in VM to some experiment on Penetration Testing, Security Research, Computer Forensics and Reverse
+Engineering.
+  -  Created Sandbox Environment and configured VM properly to test the Malware
+  -  Created Snapshot prior to try out new activity
+ 
+Configuring and Updating Microsoft Defender
+ Enabling and configuring Microsoft Firewall
+ Utilized tcpDUMP to capture and analyzed TCP Traffic
+ Installed Wireshark on Ubuntu
+ Utilized Wireshark to analyze HTTP/S and RDP traffic
+
+
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
